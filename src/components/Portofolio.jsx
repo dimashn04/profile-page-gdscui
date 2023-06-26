@@ -1,5 +1,5 @@
 import React from "react";
-import trisaktilsc from "../assets/portofolio/trisaktiLsc.png";
+import trisaktilsc from "../assets/portofolio/trisaktilsc.png";
 import powertech from "../assets/portofolio/powertech.png";
 import ninjaken from "../assets/portofolio/ninjaken.png";
 import webangkatan2022 from "../assets/portofolio/webangkatan2022.png";
